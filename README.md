@@ -1,6 +1,6 @@
 ### Hola Mundo :wave:
 
-Mi nombre es Marta González (martacg).
+Mi nombre es Marta González.
 
 Me dedico al desarrollo front-end.
 
