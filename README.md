@@ -8,4 +8,4 @@ Trabajo con lenguajes **HTML5, CSS3 y JavaScript**.
 
 Me gustan los retos, soy autodidacta, creativa y proactiva. Aprendo con facilidad y me adapto a nuevos entornos rápidamente.
 
-https://user-images.githubusercontent.com/4654339/207939073-c833bae0-c3b1-4a0e-a0b8-437225f9bc5e.jpg
+![header](https://user-images.githubusercontent.com/4654339/207939345-76fa62f0-0e0a-4bcb-a810-62793372097c.jpg)
