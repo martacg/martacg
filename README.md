@@ -12,7 +12,7 @@ Soy **Marta González** y me dedico al **desarrollo front-end**. Tengo estudios 
 ![React]([https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB))
 
 ## 🎨 Herramientas de diseño (como desarrollador)
-![Figma]([https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white))
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 
 ![bg_linkedin_1584x396](https://github.com/martacg/martacg/assets/4654339/cad8ce00-b19e-4453-8030-39a41aae6cdf)
