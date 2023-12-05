@@ -3,7 +3,7 @@
 Soy **Marta González** y me dedico al **desarrollo front-end**. Tengo estudios de multimedia, administración de sistemas y desarrollo de aplicaciones informáticas. Trabajo con lenguajes **HTML5, CSS3 y JavaScript**. Me gustan los retos, soy autodidacta, creativa y proactiva. Aprendo con facilidad y me adapto a nuevos entornos con rapidez.
 
 
-## 💻 Habilidades | Lenguajes y Frameworks
+## 💻 Lenguajes y Frameworks
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
@@ -11,7 +11,7 @@ Soy **Marta González** y me dedico al **desarrollo front-end**. Tengo estudios 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)
 
-## 🎨 Habilidades | Herramientas de diseño (como desarrollador)
+## 🎨 Herramientas de diseño (como desarrollador)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 
 ## 📚 Estadísticas
