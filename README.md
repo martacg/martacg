@@ -14,14 +14,13 @@ Soy **Marta González** y me dedico al **desarrollo front-end**. Tengo estudios 
 ## 🎨 Herramientas de diseño (como desarrollador)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 
+![bg_linkedin_1584x396](https://github.com/martacg/martacg/assets/4654339/cad8ce00-b19e-4453-8030-39a41aae6cdf)
+
 ## 📚 Estadísticas
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=martacg&count_private=true&show_icons=true&include_all_commits=true)
 
 > [!NOTE]  
 > [No olvides visitar mi portafolio](https://martagonzalez.dev/)
-
-
-![bg_linkedin_1584x396](https://github.com/martacg/martacg/assets/4654339/cad8ce00-b19e-4453-8030-39a41aae6cdf)
 
 
 
