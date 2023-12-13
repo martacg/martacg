@@ -2,6 +2,7 @@
 
 Soy **Marta González** y me dedico al **desarrollo front-end**. Tengo estudios de multimedia, administración de sistemas y desarrollo de aplicaciones informáticas. Trabajo con lenguajes **HTML5, CSS3 y JavaScript**. Me gustan los retos, soy autodidacta, creativa y proactiva. Aprendo con facilidad y me adapto a nuevos entornos con rapidez.
 
+I'm **Marta González**, and I specialize in **front-end development**. I have studies in multimedia, system administration, and computer application development. I work with **HTML5, CSS3, and JavaScript** languages. I enjoy challenges, am self-taught, creative, and proactive. I learn easily and adapt quickly to new environments.
 
 ## 💻 Lenguajes y Frameworks
 
