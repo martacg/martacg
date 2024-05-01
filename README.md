@@ -4,9 +4,9 @@ Soy **Marta González** y me dedico al **desarrollo front-end**. Tengo estudios 
 
 I'm **Marta González**, and I specialize in **front-end development**. I have studies in multimedia, system administration, and computer application development. I work with **HTML5, CSS3, and JavaScript** languages. I enjoy challenges, am self-taught, creative, and proactive. I learn easily and adapt quickly to new environments.
 
-## 📝 POST RECIENTE
+## 📝 Último post publicado en el blog
 Descubre qué son los modelos de lenguaje de gran tamaño (LLMs), su funcionamiento, aplicaciones y su impacto en la sociedad. https://martagonzalez.dev/blog/que-son-los-modelos-de-lenguaje-de-gran-tamano-llms/
-![que-son-los-modelos-de-lenguaje-de-gran-tamano-llms](https://github.com/martacg/martacg/assets/4654339/b5604089-8f3e-492c-b6c8-c93a70a54237)
+![que-son-los-modelos-de-lenguaje-de-gran-tamano-llms]([https://github.com/martacg/martacg/assets/4654339/b5604089-8f3e-492c-b6c8-c93a70a54237](https://martagonzalez.dev/blog/que-son-los-modelos-de-lenguaje-de-gran-tamano-llms/))
 
 
 ## 💻 Lenguajes y Frameworks
