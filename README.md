@@ -6,8 +6,6 @@ I'm **Marta González**, and I specialize in **front-end development**. I have s
 
 ## 📝 Último post publicado en el blog
 Descubre qué son los modelos de lenguaje de gran tamaño (LLMs), su funcionamiento, aplicaciones y su impacto en la sociedad. https://martagonzalez.dev/blog/que-son-los-modelos-de-lenguaje-de-gran-tamano-llms/
-![https://martagonzalez.dev/](https://github.com/martacg/martacg/assets/4654339/46d5d4ae-fa1c-4917-bfa9-f7a5aae25395)
-
 
 ## 💻 Lenguajes y Frameworks
 
