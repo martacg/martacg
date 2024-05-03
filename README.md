@@ -5,6 +5,7 @@ Soy **Marta González** y me dedico al **desarrollo front-end**. Tengo estudios 
 I'm **Marta González**, and I specialize in **front-end development**. I have studies in multimedia, system administration, and computer application development. I work with **HTML5, CSS3, and JavaScript** languages. I enjoy challenges, am self-taught, creative, and proactive. I learn easily and adapt quickly to new environments.
 
 ## 📝 Último post publicado en el blog
+¿Qué es Vanilla JS? https://martagonzalez.dev/blog/que-es-vanilla-js/
 Descubre qué son los modelos de lenguaje de gran tamaño (LLMs), su funcionamiento, aplicaciones y su impacto en la sociedad. https://martagonzalez.dev/blog/que-son-los-modelos-de-lenguaje-de-gran-tamano-llms/
 
 ## 💻 Lenguajes y Frameworks
