@@ -6,10 +6,13 @@ I'm **Marta González**, and I specialize in **front-end development**. I have s
 
 ## 📝 Último post publicado en el blog
 
-¿Qué es Vanilla JS? 
+- Del concepto a la contribución: Cómo iniciar y mantener un proyecto exitoso en GitHub
+https://martagonzalez.dev/blog/del-concepto-a-la-contribucion-como-iniciar-y-mantener-un-proyecto-exitoso-en-github/
+
+- ¿Qué es Vanilla JS? 
 https://martagonzalez.dev/blog/que-es-vanilla-js/
 
-Descubre qué son los modelos de lenguaje de gran tamaño (LLMs), su funcionamiento, aplicaciones y su impacto en la sociedad. 
+- Descubre qué son los modelos de lenguaje de gran tamaño (LLMs), su funcionamiento, aplicaciones y su impacto en la sociedad. 
 https://martagonzalez.dev/blog/que-son-los-modelos-de-lenguaje-de-gran-tamano-llms/
 
 ## 💻 Lenguajes y Frameworks
