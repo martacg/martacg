@@ -6,6 +6,9 @@ I'm **Marta González**, and I specialize in **front-end development**. I have s
 
 ## 📝 Últimos post publicado en el blog
 
+- Cómo encontrar los proyectos de GitHub más prometedores: Una guía paso a paso
+https://martagonzalez.dev/blog/como-encontrar-los-proyectos-de-github-mas-prometedores-una-guia-paso-a-paso/
+
 - Del concepto a la contribución: Cómo iniciar y mantener un proyecto exitoso en GitHub
 https://martagonzalez.dev/blog/del-concepto-a-la-contribucion-como-iniciar-y-mantener-un-proyecto-exitoso-en-github/
 
