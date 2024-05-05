@@ -6,17 +6,20 @@ I'm **Marta González**, and I specialize in **front-end development**. I have s
 
 ## 📝 Últimos post publicado en el blog
 
+- Qué es el modelo AIDA en Marketing y cómo aplicarlo
+  https://martagonzalez.dev/blog/que-es-el-modelo-aida-en-marketing-y-como-aplicarlo/
+
 - Cómo encontrar los proyectos de GitHub más prometedores: Una guía paso a paso
-https://martagonzalez.dev/blog/como-encontrar-los-proyectos-de-github-mas-prometedores-una-guia-paso-a-paso/
+  https://martagonzalez.dev/blog/como-encontrar-los-proyectos-de-github-mas-prometedores-una-guia-paso-a-paso/
 
 - Del concepto a la contribución: Cómo iniciar y mantener un proyecto exitoso en GitHub
-https://martagonzalez.dev/blog/del-concepto-a-la-contribucion-como-iniciar-y-mantener-un-proyecto-exitoso-en-github/
+  https://martagonzalez.dev/blog/del-concepto-a-la-contribucion-como-iniciar-y-mantener-un-proyecto-exitoso-en-github/
 
-- ¿Qué es Vanilla JS? 
-https://martagonzalez.dev/blog/que-es-vanilla-js/
+- ¿Qué es Vanilla JS?
+  https://martagonzalez.dev/blog/que-es-vanilla-js/
 
-- Descubre qué son los modelos de lenguaje de gran tamaño (LLMs), su funcionamiento, aplicaciones y su impacto en la sociedad. 
-https://martagonzalez.dev/blog/que-son-los-modelos-de-lenguaje-de-gran-tamano-llms/
+- Descubre qué son los modelos de lenguaje de gran tamaño (LLMs), su funcionamiento, aplicaciones y su impacto en la sociedad.
+  https://martagonzalez.dev/blog/que-son-los-modelos-de-lenguaje-de-gran-tamano-llms/
 
 ## 💻 Lenguajes y Frameworks
 
