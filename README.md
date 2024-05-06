@@ -1,8 +1,12 @@
+![bg_linkedin_1584x396](https://github.com/martacg/martacg/assets/4654339/cad8ce00-b19e-4453-8030-39a41aae6cdf)
+
 ### Hola Mundo :wave:
 
 Soy **Marta González** y me dedico al **desarrollo front-end**. Tengo estudios de multimedia, administración de sistemas y desarrollo de aplicaciones informáticas. Trabajo con lenguajes **HTML5, CSS3 y JavaScript**. Me gustan los retos, soy autodidacta, creativa y proactiva. Aprendo con facilidad y me adapto a nuevos entornos con rapidez.
 
 I'm **Marta González**, and I specialize in **front-end development**. I have studies in multimedia, system administration, and computer application development. I work with **HTML5, CSS3, and JavaScript** languages. I enjoy challenges, am self-taught, creative, and proactive. I learn easily and adapt quickly to new environments.
+
+[https://martagonzalez.dev/](https://martagonzalez.dev/)
 
 ## 📝 Últimos post publicado en el blog
 
@@ -33,10 +37,6 @@ I'm **Marta González**, and I specialize in **front-end development**. I have s
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)
-
-![bg_linkedin_1584x396](https://github.com/martacg/martacg/assets/4654339/cad8ce00-b19e-4453-8030-39a41aae6cdf)
-
-[https://martagonzalez.dev/](https://martagonzalez.dev/)
 
 ## 📚 Estadísticas
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=martacg&count_private=true&show_icons=true&include_all_commits=true)
