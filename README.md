@@ -10,6 +10,9 @@ I'm **Marta González**, and I specialize in **front-end development**. I have s
 
 ## 📝 Últimos post publicado en el blog
 
+- Typescript: Primeros pasos
+  https://martagonzalez.dev/blog/typescript-primeros-pasos/
+  
 - Cómo instalar y configurar TailwindCSS paso a paso
   https://martagonzalez.dev/blog/como-instalar-y-configurar-tailwindcss-paso-a-paso/
   
