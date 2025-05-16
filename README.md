@@ -1,4 +1,5 @@
-![bg_linkedin_1584x396](https://github.com/martacg/martacg/assets/4654339/cad8ce00-b19e-4453-8030-39a41aae6cdf)
+
+![martagonzalez-dev-header](https://github.com/user-attachments/assets/9beca0ac-9746-4125-a24d-eaf083a15f16)
 
 ### Hola Mundo :wave:
 
