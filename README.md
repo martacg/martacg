@@ -27,8 +27,7 @@ I'm **Marta González**, and I specialize in **front-end development**. I have s
 - Primeros pasos con Astro: Instalación y configuración básica
   https://martagonzalez.dev/blog/primeros-pasos-con-astro-instalacion-y-configuracion-basica/
 - Arquitectura de Islas en Desarrollo Web: Optimización y Rendimiento 🚀
-[[[https://martagonzalez.dev/blog/la-importancia-de-la-accesibilidad-web-haciendo-internet-accesible-para-todos/](https://martagonzalez.dev/blog/arquitectura-de-islas-en-desarrollo-web-optimizacion-y-rendimiento-%f0%9f%9a%80/)](https://martagonzalez.dev/blog/arquitectura-de-islas-en-desarrollo-web-optimizacion-y-rendimiento-%f0%9f%9a%80/)](https://martagonzalez.dev/blog/arquitectura-de-islas-en-desarrollo-web-optimizacion-y-rendimiento-%f0%9f%9a%80/)
-
+  https://martagonzalez.dev/blog/arquitectura-de-islas-en-desarrollo-web-optimizacion-y-rendimiento-%f0%9f%9a%80/
 
 ## 💻 Lenguajes y Frameworks
 
