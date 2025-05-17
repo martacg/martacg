@@ -1,6 +1,12 @@
 
-![logo-martagonzalez](https://github.com/user-attachments/assets/d50a8af0-ab0b-4ecd-acc2-526ccd696002)
 
+<div align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/d50a8af0-ab0b-4ecd-acc2-526ccd696002" 
+    alt="Marta González - Desarrollo Frontend" 
+    width="300" 
+  />
+</div>
 
 ### Hola Mundo :wave:
 
