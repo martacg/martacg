@@ -1,5 +1,5 @@
 
-<div align="center">![logo-martagonzalez](https://github.com/user-attachments/assets/d50a8af0-ab0b-4ecd-acc2-526ccd696002)</div>
+![logo-martagonzalez](https://github.com/user-attachments/assets/d50a8af0-ab0b-4ecd-acc2-526ccd696002)
 
 
 ### Hola Mundo :wave:
