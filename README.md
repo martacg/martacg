@@ -1,5 +1,6 @@
 
-![martagonzalez-dev-header](https://github.com/user-attachments/assets/087e9c75-69fb-4c3c-85b9-1fd1fbecf17b)
+<div align="center">![logo-martagonzalez](https://github.com/user-attachments/assets/d50a8af0-ab0b-4ecd-acc2-526ccd696002)</div>
+
 
 ### Hola Mundo :wave:
 
@@ -11,23 +12,17 @@ I'm **Marta González**, and I specialize in **front-end development**. I have s
 
 ## 📝 Últimos post publicado en el blog
 
-- Typescript: Primeros pasos
-  https://martagonzalez.dev/blog/typescript-primeros-pasos/
-  
-- Cómo instalar y configurar TailwindCSS paso a paso
-  https://martagonzalez.dev/blog/como-instalar-y-configurar-tailwindcss-paso-a-paso/
-  
-- Qué es el modelo AIDA en Marketing y cómo aplicarlo
-  https://martagonzalez.dev/blog/que-es-el-modelo-aida-en-marketing-y-como-aplicarlo/
+- El síndrome Baby Duck en UX: ¿Cómo afecta la experiencia del usuario?
+  https://martagonzalez.dev/blog/el-sindrome-baby-duck-en-ux-como-afecta-la-experiencia-del-usuario/
+- Dot Coding: Qué es y cómo aplicarlo en el desarrollo web
+  https://martagonzalez.dev/blog/dot-coding-que-es-y-como-aplicarlo-en-el-desarrollo-web/
+- Mejorando el rendimiento en Astro: Estrategias y buenas prácticas
+  https://martagonzalez.dev/blog/mejorando-el-rendimiento-en-astro-estrategias-y-buenas-practicas/
+- Primeros pasos con Astro: Instalación y configuración básica
+  https://martagonzalez.dev/blog/primeros-pasos-con-astro-instalacion-y-configuracion-basica/
+- Arquitectura de Islas en Desarrollo Web: Optimización y Rendimiento 🚀
+[[[https://martagonzalez.dev/blog/la-importancia-de-la-accesibilidad-web-haciendo-internet-accesible-para-todos/](https://martagonzalez.dev/blog/arquitectura-de-islas-en-desarrollo-web-optimizacion-y-rendimiento-%f0%9f%9a%80/)](https://martagonzalez.dev/blog/arquitectura-de-islas-en-desarrollo-web-optimizacion-y-rendimiento-%f0%9f%9a%80/)](https://martagonzalez.dev/blog/arquitectura-de-islas-en-desarrollo-web-optimizacion-y-rendimiento-%f0%9f%9a%80/)
 
-- Cómo encontrar los proyectos de GitHub más prometedores: Una guía paso a paso
-  https://martagonzalez.dev/blog/como-encontrar-los-proyectos-de-github-mas-prometedores-una-guia-paso-a-paso/
-
-- Del concepto a la contribución: Cómo iniciar y mantener un proyecto exitoso en GitHub
-  https://martagonzalez.dev/blog/del-concepto-a-la-contribucion-como-iniciar-y-mantener-un-proyecto-exitoso-en-github/
-
-- ¿Qué es Vanilla JS?
-  https://martagonzalez.dev/blog/que-es-vanilla-js/
 
 ## 💻 Lenguajes y Frameworks
 
