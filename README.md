@@ -14,7 +14,10 @@ Soy Marta, y creo sitios web pensados para las personas: bonitos, funcionales y 
 
 Tengo estudios de multimedia, administración de sistemas y desarrollo de aplicaciones informáticas. Trabajo con lenguajes **HTML5, CSS3 y JavaScript**. Me gustan los retos, soy autodidacta, creativa y proactiva. Aprendo con facilidad y me adapto a nuevos entornos con rapidez.
 
-[https://martagonzalez.dev/](https://martagonzalez.dev/)
+> [www.martagonzalez.dev](https://martagonzalez.dev/)
+
+> [Sistema de diseño de Marta González](https://martacg.github.io/martagonzalez-designsystem/) ✨
+  Diseño coherente. Desarrollo eficiente. Marca unificada.
 
 ## 📝 Últimos post publicado en el blog
 
@@ -48,6 +51,8 @@ Tengo estudios de multimedia, administración de sistemas y desarrollo de aplica
 <!--
 > [!NOTE]  
 > [No olvides visitar mi portafolio](https://martagonzalez.dev/)
+> [Sistema de diseño de Marta González ✨](https://martacg.github.io/martagonzalez-designsystem/)
+  Diseño coherente. Desarrollo eficiente. Marca unificada.
 -->
 
 
